@@ -1,2 +1,1 @@
-# DeliveryJsWebsite
- 
+Food delivery website prototype.
